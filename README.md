@@ -1,2 +1,1 @@
-# SAR_NEURAL_CNN
-satellite images
+# Object-Detection-from-SAR-images-using-DCNN
